@@ -1,6 +1,6 @@
-# PortfolioV2
+# Portfolio
 
-![PortfolioV2](/images/portfolio1.gif)
+![Portfolio](/images/portfolio1.gif)
 
 # Sections
 
