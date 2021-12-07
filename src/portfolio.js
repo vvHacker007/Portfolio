@@ -39,7 +39,6 @@ const skills = {
         "Building responsive website front end using ReactJS",
         "Some experience creating application backend in Node and Express",
         "Some experience working with third party services such as Firebase Authentication and GCP",
-        "Interest in computer hardware, built several PCs for myself",
       ],
       softwareSkills: [
         {
@@ -116,11 +115,11 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Other Related Skills",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
+        "Experience with Firebase Authentication and Firestore",
+        "Experience with computer hardware, built several computers for myself",
         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
