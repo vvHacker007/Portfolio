@@ -120,7 +120,7 @@ const skills = {
       skills: [
         "Experience with Firebase Authentication and Firestore",
         "Experience with computer hardware, built several computers for myself",
-        "⚡ Experience with Continuous Integration",
+        "Familiar with Linux, MacOS, and Windows",
       ],
       softwareSkills: [
         {
@@ -129,6 +129,28 @@ const skills = {
           style: {
             color: "#FFCA28",
           },
+        },
+        {
+          skillName: "PC-Building",
+          fontAwesomeClassname: "simple-icons:pcgamingwiki",
+          style: {
+            color: "#7d63ff",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "logos:linux-tux",
+        },
+        {
+          skillName: "Mac",
+          fontAwesomeClassname: "wpf:mac-os",
+          style: {
+            color: "#FFFFFF",
+          },
+        },
+        {
+          skillName: "Windows",
+          fontAwesomeClassname: "logos:microsoft-windows",
         },
       ],
     },
