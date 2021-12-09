@@ -162,11 +162,26 @@ const degrees = {
     {
       title: "North Carolina Agricultural and Technical State University",
       subtitle: "Bachelors in Computer Science",
-      logo_path: "Aggies_logo.jpg",
+      logo_path: "Aggies_logo.png",
       alt_name: "NCAT",
       duration: "2018 - 2022",
       descriptions: [
-        "I'm currently finishing the last semester for my Bachelors in Computer Science",
+        "I'm currently finishing the last semester for my Bachelors in Computer Science.",
+        "Here are some of the classes I've taken: ",
+        "Data Structures | " +
+          "Algorithms | " +
+          "Programming Languages | " +
+          "Database Design | " +
+          "Python for Data Science | " +
+          "Operating Systems | " +
+          "AI & Machine Learning | " +
+          "Theory of Computing | " +
+          "Discrete Math | " +
+          "Internet Systems | " +
+          "In Progress Courses | " +
+          "Software Engineering | " +
+          "Computer Arch & Org | " +
+          "Linear Algebra",
       ],
       website_link: "https://www.ncat.edu/",
     },
@@ -188,23 +203,23 @@ const certifications = {
     {
       title: "Hackathon",
       subtitle: "HackCLT 2018",
-      logo_path: "hackathon1.png",
+      logo_path: "HackCLT.png",
       alt_name: "hackathon",
-      color_code: "#f47e2c",
+      color_code: "#2AAFED",
     },
     {
       title: "Hackathon",
       subtitle: "HackNCAT 2020",
-      logo_path: "hackathon1.png",
+      logo_path: "HackNCAT.png",
       alt_name: "hackathon",
-      color_code: "#f47e2c",
+      color_code: "#2AAFED",
     },
     {
       title: "Hackathon",
       subtitle: "HackNCAT 2021",
-      logo_path: "hackathon1.png",
+      logo_path: "HackNCAT.png",
       alt_name: "hackathon",
-      color_code: "#f47e2c",
+      color_code: "#2AAFED",
     },
   ],
 };
@@ -214,7 +229,8 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've completed several internships and worked on a few small projects for school and on the side. The details " +
+    "of my experiences will be layed out here.",
   header_image_path: "experience.svg",
   sections: [
     {
