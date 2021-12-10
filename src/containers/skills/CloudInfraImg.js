@@ -1,5 +1,4 @@
 import React from "react";
-import programmingImg from "../../assests/images/programming_image.png";
 
 export default function CloudInfraImg(props) {
   const theme = props.theme;

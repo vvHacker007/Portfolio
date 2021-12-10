@@ -237,100 +237,76 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Machine Learning Intern",
-          company: "Technocolabs",
-          company_url: "https://technocolabs.com/",
-          logo_path: "Technocolabs.jfif",
-          duration: "Sept 2020 - Oct 2020",
+          title: "STEP Intern",
+          company: "Google",
+          company_url: "https://careers.google.com/",
+          logo_path: "google_logo.png",
+          duration: "May 2019 - Aug 2019, May 2020 - Aug 2020",
+          location: "Mountain View, CA and Remote",
+          description:
+            "(2019) Added full stack functionality for an aspect of a new internal web tool for the DialogFlow team " +
+            "which will allow for direct access to look at and manipulate user data via the web tool instead of " +
+            "manually querying the database.\n" +
+            "(2020) Worked on several personal projects that used vanilla Javascript, HTML, CSS, and Java Servlets\n" +
+            "Worked on a project with two other interns where we began building a web application for helping college " +
+            "students find housing, where I specifically worked on User Authentication (see github for the code)\n",
+          color: "#ee3c26",
+        },
+        {
+          title: " Front End Intern",
+          company: "IBM",
+          company_url: "https://www.ibm.com/us-en?ar=1",
+          logo_path: "IBM_logo.jpg",
+          duration: "Jun 2021 - Aug 2021",
           location: "Remote",
-          description: `Analysed the changes before and after people started using sanitizers using the covid-19 dataset. Built and analysed several predictive models for defaulting user’s credit card and deployed it on a full-stack website using Flask. Made a predictive model for Blood Donation for Future Expectancy and deployed it on a fully-fledged website. Increased productivity and problem-solving technics by 20%. 
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          description:
+            "Developed an internal tool to increase productivity by comparing two maintained files against " +
+            "an excel specs sheet to find differences and produce a file documenting these differences\n" +
+            "Developed an internal web tool using Node.js that reads xml files given by the product engineering team " +
+            "and produces a webpage that has the xml data organized into tables and functions that can be copied " +
+            "instead of manually coding them\n",
           color: "#0071C5",
         },
         {
-          title: "Data Science Intern",
-          company: "The Sparks Foundation",
-          company_url: "hhttps://thesparksfoundation.info/",
-          logo_path: "TSF.png",
-          duration: "Aug 2020 - Sept 2020",
-          location: "Remote",
-          description: `Developed predictive models and deployed it on a full-stack website using Flask. Used Boxplot, Heatmap and Confusion Matrix for data visualization. Deep analysis on the superstore dataset using Bar Plots, Bar Charts, Pair Plots and Joint Plots for specific regions.
-          `,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
-          color: "#ee3c26",
+          title: "Undergraduate Research Assistant",
+          company: "North Carolina Agricultural and Technical State University",
+          company_url:
+            "https://www.ncat.edu/provost/undergraduate-research.php",
+          logo_path: "NCAT_research.png",
+          duration: "Aug 2020 - Present",
+          location: "Greensboro, NC",
+          description:
+            "Worked in research on detecting sybils on twitter and helped write a " +
+            "survey paper on quantum machine learning (will attach a link when it's published)",
+          color: "#ffc601",
         },
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Extracurriculars",
       experiences: [
         {
-          title: "R&D Member",
-          company: "Webarch Club",
-          company_url: "https://www.webarchsrm.com/",
-          logo_path: "Webarch.jfif",
-          duration: "Mar 2020 - Nov 2020",
-          location: "SRM IST Kattankulathur",
+          title: "Interview Prep Student Interest Group Co-Lead",
+          company: "ACM",
+          company_url: "https://www.acm.org/",
+          logo_path: "ACM_logo.png",
+          duration: "Aug 2020 - May 2021",
+          location: "Greensboro, NC",
           description:
-            "Member responsibilities were to help students in project planning, review issues and pull requests, ensure smooth progress and help juniors out in their difficulties.",
+            "Help prepare students for technical interviews for internships and full time opportunities",
           color: "#4285F4",
         },
-        {
-          title: "Campus Leader",
-          company: "Code For Cause",
-          company_url: "https://www.codecau.se/",
-          logo_path: "CFC.jfif",
-          duration: "Nov 2020 - Present",
-          location: "SRM IST Kattankulathur",
-          description:
-            "Held numerous workshops and distributed learning content for freshers. Contributed to development of the causefolio website displaying the information about the Code for Cause Community.",
-          color: "#a60000",
-        },
-        {
-          title: "Machine Learning - Research associate",
-          company: "Next Tech Lab",
-          company_url: "https://nextech.io/",
-          logo_path: "NTL.jfif",
-          duration: "Oct 2020 - Present",
-          location: "SRM IST Kattankulathur",
-          description:
-            "Associate responsibilities were to build fast and efficient machine learning models, have talks on research topics related to computer vision and deep learning. Build team projects and intract with fellow members and ensure smooth progress and help juniors out in their difficulties.",
-          color: "#62cff0",
-        },
-        {
-          title: "Campus Ambassador",
-          company: "Bagcampus",
-          company_url: "https://bagcampus.in/",
-          logo_path: "Bagcampus.jpg",
-          duration: "Dec 2020 - May 2021",
-          location: "Remote",
-          description:
-            "Spread Awareness of new Technologies and Companies and new Opportunities to Students and Grow Bagcampus Community.",
-          color: "#0059c9",
-        },
-        {
-          title: "Volunteer",
-          company: "Google Crowdsource",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "GCS.jfif",
-          duration: "Sept 2020 - Present",
-          location: "Remote",
-          description:
-            "As a member of the global Crowdsource community one can gain recognition from other Crowdsourcers and Google.",
-          color: "#ffffff",
-        },
-        {
-          title: "Student Volunteer",
-          company: "National Service Scheme",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "NSS.jfif",
-          duration: "Dec 2019 - May 2020",
-          location: "SRM IST Kattankulathur",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#282b6c",
-        },
+        // {
+        //   title: "Campus Leader",
+        //   company: "Code For Cause",
+        //   company_url: "https://www.codecau.se/",
+        //   logo_path: "CFC.jfif",
+        //   duration: "Nov 2020 - Present",
+        //   location: "SRM IST Kattankulathur",
+        //   description:
+        //     "Held numerous workshops and distributed learning content for freshers. Contributed to development of the causefolio website displaying the information about the Code for Cause Community.",
+        //   color: "#a60000",
+        // },
       ],
     },
   ],
