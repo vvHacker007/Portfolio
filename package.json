@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalPortfolio",
   "version": "1.0.0",
-  "homepage": "http://vedanshv.tech/",
+  "homepage": "https://mcradcliffe2490.github.io/Portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",

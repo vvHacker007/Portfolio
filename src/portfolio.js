@@ -227,7 +227,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work, Internship and Extracurriculars",
   description:
     "I've completed several internships and worked on a few small projects for school and on the side. The details " +
     "of my experiences will be layed out here.",
