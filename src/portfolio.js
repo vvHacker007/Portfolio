@@ -38,7 +38,7 @@ const skills = {
       skills: [
         "Building responsive website front end using ReactJS",
         "Some experience creating application backend in Node and Express",
-        "Some experience working with third party services such as Firebase Authentication and GCP",
+        "Currently employed by Captech Consulting",
       ],
       softwareSkills: [
         {
@@ -325,15 +325,17 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_photo_2.jpeg",
+    profile_image_path: "M_profile_pic.jpeg",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "You can contact me at any of the links below. Email is the best way to contact me and I'm usually good about " +
+      "responding within 2-3 days",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others.",
-    link: "https://medium.com/@vedanshvijay/",
+      "I don't currently have anything on my blog, but I plan to start blogging soon. I like to write, so I'll probably" +
+      " blog a lot about the things I'm interested in like tech, media, and theology",
+    link: "https://medium.com/@mcradcliffe2490",
     avatar_image_path: "blogs_image.svg",
   },
 };
