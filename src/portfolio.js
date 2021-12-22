@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Machine Learning Practitioner, Open Source Enthusiast, Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1wrkG62HyDgbUOjNxexCT891tcqd83_cK/view?usp=sharing",
+    "https://drive.google.com/file/d/1v4CF8NKZFA8FbYdwTY31THcRLbK-V97l/view?usp=sharing",
   mail: "mailto:im.vedanshvijay2002@gmail.com",
 };
 
@@ -426,7 +426,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've completed two internships. I've mostly done projects on my own but also contibuted to some team projects. I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -536,7 +536,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create Backend Projects, ML Models, and GUI Projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -544,7 +544,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_photo_2.jpeg",
+    profile_image_path: "pp.jpeg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
