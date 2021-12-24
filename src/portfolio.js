@@ -333,9 +333,9 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't currently have anything on my blog, but I plan to start blogging soon. I like to write, so I'll probably" +
+      "I just started blogging more recently. I like to write, so I'll probably" +
       " blog a lot about the things I'm interested in like tech, media, and theology",
-    link: "https://medium.com/@mcradcliffe2490",
+    link: "https://medium.com/@werty2490",
     avatar_image_path: "blogs_image.svg",
   },
 };
