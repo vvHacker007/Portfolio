@@ -253,6 +253,30 @@
     transform: translateY(8);
   }
 }
+#hair {
+  transform: translateY(-9px);
+  -ms-transform: translateY(-9px);
+  -moz-transform: translateY(-9px);
+  animation: hair 6s infinite;
+}
+
+@keyframes hair {
+  0% {
+    transform: translateY(-8);
+  }
+
+  25% {
+    transform: translateY(0px);
+  }
+
+  75% {
+    transform: translateY(0px);
+  }
+
+  100% {
+    transform: translateY(8);
+  }
+}
 
 #ears {
   animation: ears 6s linear infinite;
