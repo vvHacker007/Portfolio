@@ -121,6 +121,7 @@ const skills = {
         "Experience with Firebase Authentication and Firestore",
         "Experience with computer hardware, built several computers for myself",
         "Familiar with Linux, MacOS, and Windows",
+        "Maintain a blog on a variety of things I enjoy talking about",
       ],
       softwareSkills: [
         {
