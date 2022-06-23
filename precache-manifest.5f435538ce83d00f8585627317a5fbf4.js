@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7248f75ae4287b9ca0bc385bf7b079a",
+    "revision": "beb60e1dff21d85a434d105bf7ca16a9",
     "url": "/index.html"
   },
   {
-    "revision": "f11cf2217084cfb57e0d",
+    "revision": "4a00bb5dc528c43b6320",
     "url": "/static/css/main.669093b8.chunk.css"
   },
   {
-    "revision": "368e0cb3d31222df7942",
-    "url": "/static/js/2.80cf1d07.chunk.js"
+    "revision": "ff703ec566e307839288",
+    "url": "/static/js/2.2a0576fc.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.80cf1d07.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2a0576fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f11cf2217084cfb57e0d",
-    "url": "/static/js/main.d2ef66e3.chunk.js"
+    "revision": "4a00bb5dc528c43b6320",
+    "url": "/static/js/main.c79744be.chunk.js"
   },
   {
     "revision": "86270678e9ad3edc9349",
@@ -86,6 +86,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc2e996510c6446bd81b71e65a5ef8fd",
     "url": "/static/media/SRM_Logo.bc2e9965.png"
+  },
+  {
+    "revision": "27be040092e5e21b7031b8925e526d79",
+    "url": "/static/media/Samsung.27be0400.webp"
+  },
+  {
+    "revision": "4ce3e237190e55916a87bb0368fc6a66",
+    "url": "/static/media/Samsung.4ce3e237.png"
   },
   {
     "revision": "dfdfd9292fa85d49cbaa7ac6a7658b40",

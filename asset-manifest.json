@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.669093b8.chunk.css",
-    "main.js": "/static/js/main.d2ef66e3.chunk.js",
-    "main.js.map": "/static/js/main.d2ef66e3.chunk.js.map",
+    "main.js": "/static/js/main.c79744be.chunk.js",
+    "main.js.map": "/static/js/main.c79744be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.80cf1d07.chunk.js": "/static/js/2.80cf1d07.chunk.js",
-    "static/js/2.80cf1d07.chunk.js.map": "/static/js/2.80cf1d07.chunk.js.map",
+    "static/js/2.2a0576fc.chunk.js": "/static/js/2.2a0576fc.chunk.js",
+    "static/js/2.2a0576fc.chunk.js.map": "/static/js/2.2a0576fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e54b4d315afb3ba135888e9e0f7ba8ae.js": "/precache-manifest.e54b4d315afb3ba135888e9e0f7ba8ae.js",
+    "precache-manifest.5f435538ce83d00f8585627317a5fbf4.js": "/precache-manifest.5f435538ce83d00f8585627317a5fbf4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.669093b8.chunk.css.map": "/static/css/main.669093b8.chunk.css.map",
-    "static/js/2.80cf1d07.chunk.js.LICENSE.txt": "/static/js/2.80cf1d07.chunk.js.LICENSE.txt",
+    "static/js/2.2a0576fc.chunk.js.LICENSE.txt": "/static/js/2.2a0576fc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CFC.jfif": "/static/media/CFC.71eef4be.jfif",
     "static/media/GCS.jfif": "/static/media/GCS.c68e2fd2.jfif",
@@ -21,6 +21,8 @@
     "static/media/Olympiad.png": "/static/media/Olympiad.17e91d0f.png",
     "static/media/Reply.jfif": "/static/media/Reply.065b8c91.jfif",
     "static/media/SRM_Logo.png": "/static/media/SRM_Logo.bc2e9965.png",
+    "static/media/Samsung.webp": "/static/media/Samsung.27be0400.webp",
+    "static/media/Samsung.png": "/static/media/Samsung.4ce3e237.png",
     "static/media/Technocolabs.jfif": "/static/media/Technocolabs.dfdfd929.jfif",
     "static/media/Webarch.jfif": "/static/media/Webarch.c0daffca.jfif",
     "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
@@ -34,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.80cf1d07.chunk.js",
+    "static/js/2.2a0576fc.chunk.js",
     "static/css/main.669093b8.chunk.css",
-    "static/js/main.d2ef66e3.chunk.js"
+    "static/js/main.c79744be.chunk.js"
   ]
 }
