@@ -10,26 +10,26 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Vedansh",
-  logo_name: "vedansh.v()",
+  title2: "thucpn",
+  logo_name: "thucpn()",
   // nickname: "harry / picleric",
-  full_name: "Vedansh Vijaywargiya",
+  full_name: "Thuc Pham",
   subTitle:
-    "Full Stack Developer, Machine Learning Practitioner, Open Source Enthusiast, Life Long Learner.",
+    "Full Stack Developer, Blockchain Practitioner, Open Source Enthusiast, Blogger, Startup Dreamer, Life Long Learner.",
   resumeLink:
     "https://drive.google.com/file/d/1wrkG62HyDgbUOjNxexCT891tcqd83_cK/view?usp=sharing",
-  mail: "mailto:im.vedanshvijay2002@gmail.com",
+  mail: "mailto:thucpn.developer@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/vvHacker007/",
-  linkedin: "https://www.linkedin.com/in/vedansh-vijaywargiya/",
-  gmail: "im.vedanshvijay2002@gmail.com",
+  github: "https://github.com/thucpn",
+  linkedin: "https://www.linkedin.com/in/thucpn",
+  gmail: "thucpn.developer@gmail.com",
   // gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/vedansh.vijaywargiya/",
-  twitter: "https://twitter.com/vedansh_v_/",
-  instagram: "https://www.instagram.com/vedv_2002/",
+  facebook: "https://www.facebook.com/thucpn",
+  twitter: "https://twitter.com/thucngocpham",
+  instagram: "https://www.instagram.com/thucpn.inst",
 };
 
 const skills = {
@@ -39,9 +39,9 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Creating application backend in Node, Express, Flask, Django and Fast-API",
-        "⚡ Integration of third party services such as Firebase/ AWS / GCP",
+        "⚡ Building responsive website front end using ReactJS and NextJS",
+        "⚡ Creating application backend in Node, Express, Prisma and PostgreSQL",
+        "⚡ Integration of third party services such as Firebase/ Twilio / Sendgrid",
       ],
       softwareSkills: [
         {
@@ -74,17 +74,80 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#06B6D4",
+          },
+        },
+        {
+          skillName: "React",
           fontAwesomeClassname: "simple-icons:react",
           style: {
             color: "#61DAFB",
           },
         },
         {
-          skillName: "NodeJS",
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:next-dot-js",
+          style: {
+            color: "#9B9B9B",
+          },
+        },
+        {
+          skillName: "Node.js",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
             color: "#339933",
+          },
+        },
+        {
+          skillName: "Express",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#9B9B9B",
+          },
+        },
+        {
+          skillName: "NestJS",
+          fontAwesomeClassname: "simple-icons:nestjs",
+          style: {
+            color: "#E0234E",
+          },
+        },
+        {
+          skillName: "Prisma",
+          fontAwesomeClassname: "simple-icons:prisma",
+          style: {
+            color: "#2D3748",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#4169E1",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#439743",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            color: "#E94E32",
           },
         },
         {
@@ -95,122 +158,10 @@ const skills = {
           },
         },
         {
-          skillName: "Flask",
-          fontAwesomeClassname: "simple-icons:flask",
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
           style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "Django",
-          fontAwesomeClassname: "simple-icons:django",
-          style: {
-            color: "#0c4b33",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#439743",
-          },
-        },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
-        // {
-        //   skillName: "Android",
-        //   fontAwesomeClassname: "simple-icons:android",
-        //   style: {
-        //     color: "#3DDC84",
-        //   },
-        // },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
-        // {
-        //   skillName: "Dart",
-        //   fontAwesomeClassname: "simple-icons:dart",
-        //   style: {
-        //     color: "#29B0EE",
-        //   },
-        // },
-        {
-          skillName: "Linux",
-          fontAwesomeClassname: "simple-icons:linux",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
-        // {
-        //   skillName: "jQuery",
-        //   fontAwesomeClassname: "simple-icons:jquery",
-        //   style: {
-        //     color: "#0865A6",
-        //   },
-        // },
-        // {
-        //   skillName: "Wordpress",
-        //   fontAwesomeClassname: "simple-icons:wordpress",
-        //   style: {
-        //     color: "#207297",
-        //   },
-        // },
-        // {
-        //   skillName: "Apache",
-        //   fontAwesomeClassname: "simple-icons:apache",
-        //   style: {
-        //     color: "#CA1A22",
-        //   },
-        // },
-        {
-          skillName: "Git",
-          fontAwesomeClassname: "simple-icons:git",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
-          style: {
-            color: "#3776AB",
+            color: "#2C8EBB",
           },
         },
       ],
@@ -221,14 +172,21 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Experience with Continuous Integration and Countinuous Deployment",
       ],
       softwareSkills: [
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
           style: {
-            color: "#FF9900",
+            color: "#6863A6",
+          },
+        },
+        {
+          skillName: "Vercel",
+          fontAwesomeClassname: "simple-icons:vercel",
+          style: {
+            color: "#9B9B9B",
           },
         },
         {
@@ -239,13 +197,6 @@ const skills = {
           },
         },
         {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-        {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
@@ -253,31 +204,57 @@ const skills = {
           },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
           style: {
-            color: "#336791",
+            color: "#1488C6",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",
           style: {
             color: "#5b77ef",
+          },
+        },
+      ],
+    },
+    {
+      title: "Project Management",
+      fileName: "ProjectManagement",
+      skills: [
+        "⚡ Experience analyzing requirements and business rules from customers",
+        "⚡ Experience breaking down requirements and estimating the effort",
+        "⚡ Experience working on designing prototype for mobile and web applications",
+        "⚡ Experience initiating, managing projects and assigning tasks to team members",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Notion",
+          fontAwesomeClassname: "simple-icons:notion",
+          style: {
+            color: "#9B9B9B",
+          },
+        },
+        {
+          skillName: "Jira",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#0052CC",
+          },
+        },
+        {
+          skillName: "Slack",
+          fontAwesomeClassname: "simple-icons:slack",
+          style: {
+            color: "#4A154B",
           },
         },
       ],
