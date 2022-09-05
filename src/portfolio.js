@@ -265,18 +265,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "SRM Institute of Science and Technology",
-      subtitle: "Bachelors in Computer Science and Engineering",
-      logo_path: "SRM_Logo.png",
-      alt_name: "SSEC",
-      duration: "2019 - 2023",
+      title: "FPT University",
+      subtitle: "Bachelors in Software Engineering",
+      logo_path: "Logo-FPT.webp",
+      alt_name: "FPT University",
+      duration: "2018 - 2022",
       descriptions: [
-        "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        "⚡ Also, I have completed various online courses for Backend , Web , Mobile App Development, etc.",
+        "⚡ Activly join activities and societies such as FPT Hackathon, FPT ACM, etc.",
       ],
-      website_link: "https://www.srmist.edu.in/",
+      website_link: "https://international.fpt.edu.vn/",
     },
   ],
 };
@@ -284,107 +283,32 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Google Cloud",
-      subtitle: "Google Cloud Training",
-      logo_path: "google_logo.png",
+      title: "University Hackathon",
+      subtitle: "Top 1 Minathon Hackathon 2022",
+      logo_path: "hackaton.jpg",
       certificate_link:
-        "https://drive.google.com/file/d/1r0hYt8Pp0N0u_4Tg-poMF1Qv3LkoKVAP/view",
-      alt_name: "MongoDB University",
-      // color_code: "#2AAFED",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "Hackathon",
-      subtitle: "Backyard Hacks 2.0",
-      logo_path: "hackathon1.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
-      alt_name: "hackathon",
-      color_code: "#f47e2c",
-    },
-    {
-      title: "Hackathon",
-      subtitle: "HyperHacks",
-      logo_path: "hackathon2.png",
-      // certificate_link:
-      //   "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
-      alt_name: "hackathon",
-      color_code: "#E2405F",
-    },
-    // {
-    //   title: "A300: Atlas Security",
-    //   subtitle: "MongoDB University",
-    //   logo_path: "mongo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
-    //   alt_name: "MongoDB University",
-    //   // color_code: "#F6B808",
-    //   color_code: "#47A048",
-    // },
-    {
-      title: "Contributor's Hack",
-      subtitle: "Hakin Codes",
-      logo_path: "HakinCodes.jfif",
-      certificate_link:
-        "https://drive.google.com/file/d/1xvyy1M05lQN-s2VKw_Qvz6E7rPwrK2qm/view?usp=sharing",
-      alt_name: "Opensource Event",
-      color_code: "#fefd7b",
-    },
-    // {
-    //   title: "MLH Local Hack Day: Build",
-    //   subtitle: "Major League Hacking",
-    //   logo_path: "mlh-logo.svg",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
-    //   alt_name: "Google",
-    //   color_code: "#fe0037",
-    // },
-    {
-      title: "Olympiad",
-      subtitle: "Ramanujan Mathematics Olympiad",
-      logo_path: "Olympiad.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
-      alt_name: "Postman",
-      // color_code: "#f36c3d",
-      color_code: "#fffbf3",
+        "https://drive.google.com/file/d/15d7Skm5R9Fh2bWnelJyBa1Nd6Qm6NNPf/view?usp=sharing",
+      alt_name: "University Hackathon",
+      color_code: "#ffffff",
     },
     {
       title: "Competitive Programming",
-      subtitle: "Reply Challenges",
-      logo_path: "Reply.jfif",
+      subtitle: "Top 3 of Qualification Round 1 - TopDev Challenge",
+      logo_path: "Logo-xanh-trắng-ngang.png",
       certificate_link:
-        "https://drive.google.com/file/d/1KamrXJPTrF3zfMuEerbSnFUjOkt-agKT/view",
-      alt_name: "Reply",
-      color_code: "#2AAFED",
+        "https://drive.google.com/file/d/1XWYN1J1KOQhp8qN_q8LU_4-dQOf11mcT/view?usp=sharing",
+      alt_name: "Competitive Programming",
+      color_code: "#013b00",
     },
     {
-      title: "Competitive Programming",
-      subtitle: "Google Hash Code",
-      logo_path: "google_logo.png",
+      title: "Coursera Specialization",
+      subtitle:
+        "Complete courses on Mordern Application Development with Node.js and AWS",
+      logo_path: "coursera.png",
       certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
-      color_code: "#2AAFED",
-    },
-    {
-      title: "Training",
-      subtitle: "30 Days of Open Source",
-      logo_path: "CFC.jfif",
-      certificate_link:
-        "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
-      alt_name: "Postman",
-      // color_code: "#f36c3d",
-      color_code: "#a60000",
-    },
-    {
-      title: "Training",
-      subtitle: "Git Learning",
-      logo_path: "Progate.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1sD6GS8f2Fh5MHMWlf5DhXoMhu4mykW-f/view",
-      alt_name: "Reply",
-      color_code: "#88e7ce",
+        "https://drive.google.com/file/d/1dxX06J9A_3O6YVvLm1fCUXUZTv26m5v8/view?usp=sharing",
+      alt_name: "Coursera Specialization",
+      color_code: "#0055D3",
     },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
