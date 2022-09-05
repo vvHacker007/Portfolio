@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Blockchain Practitioner, Open Source Enthusiast, Blogger, Startup Dreamer, Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1wrkG62HyDgbUOjNxexCT891tcqd83_cK/view?usp=sharing",
+    "https://drive.google.com/drive/u/7/folders/17yFfUE3T-AGT0aUcef1izTcoi4peE9L4", // TODO: Add your resume link
   mail: "mailto:thucpn.developer@gmail.com",
 };
 
@@ -388,13 +388,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "profile_photo_2.jpeg",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "I am looking for the full-stack developer onsite job in Singapore 🙏🙏🙏 You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others.",
-    link: "https://medium.com/@vedanshvijay/",
+      "When I learn something awesome, I do try to document it so it can be helpful to others. My blogs are usually written in Vietnamese because I often share them to newspapers of the university club.",
+    link: "https://viblo.asia/u/AwakenKayz",
     avatar_image_path: "blogs_image.svg",
   },
 };
