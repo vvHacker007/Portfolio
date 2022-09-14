@@ -16,8 +16,7 @@ const greeting = {
   full_name: "Thuc Pham",
   subTitle:
     "Full Stack Developer, Blockchain Practitioner, Open Source Enthusiast, Blogger, Startup Dreamer, Life Long Learner.",
-  resumeLink:
-    "https://drive.google.com/drive/u/7/folders/17yFfUE3T-AGT0aUcef1izTcoi4peE9L4", // TODO: Add your resume link
+  resumeLink: "/resume.pdf", // TODO: Add your resume link
   mail: "mailto:thucpn.developer@gmail.com",
 };
 
