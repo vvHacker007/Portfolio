@@ -14,10 +14,9 @@ const greeting = {
   logo_name: "vedansh.v()",
   // nickname: "harry / picleric",
   full_name: "Vedansh Vijaywargiya",
-  subTitle:
-    "Full Stack Developer, Machine Learning Practitioner, Open Source Enthusiast, Life Long Learner.",
+  subTitle: "Full Stack Developer, Open Source Contributor, Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1wrkG62HyDgbUOjNxexCT891tcqd83_cK/view?usp=sharing",
+    "https://drive.google.com/file/d/1mcpvXVvrc8qcVbIzy2UhzBhijUg1Wr7z/view?usp=drive_link",
   mail: "mailto:im.vedanshvijay2002@gmail.com",
 };
 
@@ -29,7 +28,7 @@ const socialMediaLinks = {
   // gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/vedansh.vijaywargiya/",
   twitter: "https://twitter.com/vedansh_v_/",
-  instagram: "https://www.instagram.com/vedv_2002/",
+  instagram: "https://www.instagram.com/sanecracker/",
 };
 
 const skills = {
@@ -38,12 +37,90 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Creating application backend in Node, Express, Flask, Django and Fast-API",
-        "⚡ Integration of third party services such as Firebase/ AWS / GCP",
+        "⚡ Develop highly efficient Backend and interactive User Interfaces for web applications",
+        "⚡ Building responsive website front end using HTML, CSS, ReactJS",
+        "⚡ Creating application backend in Java, Spring Boot, Python, Ruby on Rails, Flask, Django and Fast-API",
+        "⚡ Integration of third party services such as Azure/ AWS / GCP",
       ],
       softwareSkills: [
+        {
+          skillName: "Spring Boot",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#6DB33F",
+          },
+        },
+        {
+          skillName: "Gradle",
+          fontAwesomeClassname: "simple-icons:gradle",
+          style: {
+            color: "#02303A",
+          },
+        },
+        {
+          skillName: "Kafka",
+          fontAwesomeClassname: "simple-icons:apachekafka",
+          style: {
+            color: "#383435",
+          },
+        },
+        {
+          skillName: "ELK Stack",
+          fontAwesomeClassname: "simple-icons:elastic",
+          style: {
+            color: "#00ADD8",
+          },
+        },
+
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "simple-icons:jenkins",
+          style: {
+            color: "#D24939",
+          },
+        },
+        {
+          skillName: "Kibana",
+          fontAwesomeClassname: "simple-icons:kibana",
+          style: {
+            color: "#005571",
+          },
+        },
+        {
+          skillName: "Rails",
+          fontAwesomeClassname: "simple-icons:rubyonrails",
+          style: {
+            color: "#D30001",
+          },
+        },
+        {
+          skillName: "Golang",
+          fontAwesomeClassname: "simple-icons:go",
+          style: {
+            color: "#00ADD8",
+          },
+        },
+        {
+          skillName: "C",
+          fontAwesomeClassname: "simple-icons:c",
+          style: {
+            color: "#A8B9CC",
+          },
+        },
+        {
+          skillName: "C++",
+          fontAwesomeClassname: "simple-icons:cplusplus",
+          style: {
+            color: "#00599C",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
+          style: {
+            color: "#3776AB",
+          },
+        },
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -67,13 +144,6 @@ const skills = {
           },
         },
         {
-          skillName: "Bootstrap",
-          fontAwesomeClassname: "simple-icons:bootstrap",
-          style: {
-            color: "#563d7c",
-          },
-        },
-        {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -82,16 +152,9 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
           },
         },
         {
@@ -106,13 +169,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:django",
           style: {
             color: "#0c4b33",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#439743",
           },
         },
         // {
@@ -130,10 +186,17 @@ const skills = {
         //   },
         // },
         {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
+          skillName: "Swagger",
+          fontAwesomeClassname: "simple-icons:swagger",
           style: {
-            color: "#f89820",
+            color: "#85EA2D",
+          },
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: {
+            color: "#FF6C37",
           },
         },
         // {
@@ -157,13 +220,6 @@ const skills = {
             color: "#000000",
           },
         },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
         // {
         //   skillName: "jQuery",
         //   fontAwesomeClassname: "simple-icons:jquery",
@@ -178,39 +234,18 @@ const skills = {
         //     color: "#207297",
         //   },
         // },
-        // {
-        //   skillName: "Apache",
-        //   fontAwesomeClassname: "simple-icons:apache",
-        //   style: {
-        //     color: "#CA1A22",
-        //   },
-        // },
+        {
+          skillName: "Apache",
+          fontAwesomeClassname: "simple-icons:apache",
+          style: {
+            color: "#CA1A22",
+          },
+        },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
           style: {
             color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
-          style: {
-            color: "#3776AB",
           },
         },
       ],
@@ -221,9 +256,16 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Experience with Continuous Integration and Deployment",
       ],
       softwareSkills: [
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:microsoftazure",
+          style: {
+            color: "#0078D4",
+          },
+        },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -266,6 +308,34 @@ const skills = {
             color: "#47A248",
           },
         },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479A1",
+          },
+        },
+        {
+          skillName: "Redis",
+          fontAwesomeClassname: "simple-icons:redis",
+          style: {
+            color: "#DC382D",
+          },
+        },
+        {
+          skillName: "DynamoDB",
+          fontAwesomeClassname: "simple-icons:amazondynamodb",
+          style: {
+            color: "#4053D6",
+          },
+        },
+        {
+          skillName: "Aerospike",
+          fontAwesomeClassname: "simple-icons:aerospike",
+          style: {
+            color: "#C22127",
+          },
+        },
         // {
         //   skillName: "Docker",
         //   fontAwesomeClassname: "simple-icons:docker",
@@ -278,6 +348,27 @@ const skills = {
           fontAwesomeClassname: "simple-icons:githubactions",
           style: {
             color: "#5b77ef",
+          },
+        },
+        {
+          skillName: "GoDaddy",
+          fontAwesomeClassname: "simple-icons:godaddy",
+          style: {
+            color: "#1BDBDB",
+          },
+        },
+        {
+          skillName: "Cloudflare",
+          fontAwesomeClassname: "simple-icons:cloudflare",
+          style: {
+            color: "#F38020",
+          },
+        },
+        {
+          skillName: "Cloudinary",
+          fontAwesomeClassname: "simple-icons:cloudinary",
+          style: {
+            color: "#3448C5",
           },
         },
       ],
@@ -294,10 +385,10 @@ const degrees = {
       alt_name: "SSEC",
       duration: "2019 - 2023",
       descriptions: [
-        "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        "⚡  I am a Computer Science and Engineering graduate.",
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, OS, Distributed Systems etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I have implemented several projects based on what I've learnt during my tenure. ",
       ],
       website_link: "https://www.srmist.edu.in/",
     },
@@ -426,12 +517,72 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I am working as a full time software developer with an experience of about 1 year and have done 5+ internships during my tenure in college. I've done projects both as a solo developer and in a team. I like contributing to opensource projects in my free time.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
+        {
+          title: "Associate Software Engineer",
+          company: "Tekion Corp.",
+          company_url: "https://tekion.com/",
+          logo_path: "Tekion_logo.jpeg",
+          duration: "Jul 2023 - Present",
+          location: "On-Site",
+          description: `Achieved cost savings of millions of dollars for the company by optimizing server performance, including reducing server load and improving latency by merging Elastic Search Indices. Led a 2-person team in the development and maintenance of a reporting tool microservice with a codebase of approximately 6000 lines. Played a key role in developing and maintaining pivotal client-centric services such as customer management, compliance, and vendor management. This involved navigating dependencies across multiple teams and ensuring seamless integration of services. Increased test code coverage of existing services to 85% and consistently delivered all pull requests with 95% and above code coverage. This commitment to quality assurance helped improve the reliability and stability of the codebase.`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#00bfa5",
+        },
+      ],
+    },
+    {
+      title: "Internships",
+      experiences: [
+        {
+          title: "Associate Software Engineer Intern",
+          company: "Tekion Corp.",
+          company_url: "https://tekion.com/",
+          logo_path: "Tekion_logo.jpeg",
+          duration: "Jan 2023 - Jun 2023",
+          location: "On-Site",
+          description: `Enhanced system performance by reducing latency by 2000ms through the integration of parallelism into an existing sequential message delivery system. This improvement facilitated faster and non-blocking approvals, enhancing operational efficiency. Significantly improved development efficiency by reducing documentation time by 80% through the integration of Swagger API into 10 microservices. Recognized by the VP of the company for contributions to a security boot camp, particularly for writing secure and clean code. Actively contributed to identifying unsecured code in the codebase and refactored unclean code, improving overall code quality system efficieny and security posture.`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#00bfa5",
+        },
+        {
+          title: "Full Stack Developer Intern",
+          company: "Reczee",
+          company_url: "https://www.reczee.com/",
+          logo_path: "reczee_logo.jpeg",
+          duration: "Aug 2022 - Dec 2022",
+          location: "Remote",
+          description: `Implemented OAuth2.0 flow for Microsoft Graph API to seamlessly integrate Outlook Calendar events with the application. Strategically targeted approximately 20% of the user base by integrating the Outlook Graph API, enhancing user experience. Enabled the scheduling of online interview meetings by checking user's available slots, streamlining the interview process.`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#0071C5",
+        },
+        {
+          title: "Research Intern",
+          company: "Samsung",
+          company_url: "https://www.samsung.com/",
+          logo_path: "Sasung_logo.jpeg",
+          duration: "Feb 2022 - Aug 2022",
+          location: "Remote",
+          description: `Conducted in-depth research on real-time video processing techniques, exploring multiple approaches to enhance efficiency. Designed and implemented workflow architectures to seamlessly integrate models into real-time mobile applications, improving overall performance. Demonstrated strong problem-solving skills by optimizing solutions for real-time video processing challenges.`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#000000",
+        },
+        {
+          title: "Software Developer Intern",
+          company: "FreeCAD",
+          company_url: "https://www.freecad.org/",
+          logo_path: "FreeCAD-logo.svg.png",
+          duration: "Dec 2021 - Feb 2022",
+          location: "Remote",
+          description: `Developed 3-D CAD features for a manufacturing company, facilitating the design and assembly of tools for machines. Applied object-oriented design principles to enhance software functionality and scalability. Successfully refactored legacy C++ codebase to Python, improving code maintainability and performance.`,
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          color: "#ee3c26",
+        },
         {
           title: "Machine Learning Intern",
           company: "Technocolabs",
@@ -439,8 +590,7 @@ const experience = {
           logo_path: "Technocolabs.jfif",
           duration: "Sept 2020 - Oct 2020",
           location: "Remote",
-          description: `Analysed the changes before and after people started using sanitizers using the covid-19 dataset. Built and analysed several predictive models for defaulting user’s credit card and deployed it on a full-stack website using Flask. Made a predictive model for Blood Donation for Future Expectancy and deployed it on a fully-fledged website. Increased productivity and problem-solving technics by 20%. 
-          `,
+          description: `Analysed the changes before and after people started using sanitizers using the covid-19 dataset. Built and analysed several predictive models for defaulting user’s credit card and deployed it on a full-stack website using Flask. Made a predictive model for Blood Donation for Future Expectancy and deployed it on a fully-fledged website. Increased productivity and problem-solving techniques by 20%.`,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
@@ -451,8 +601,7 @@ const experience = {
           logo_path: "TSF.png",
           duration: "Aug 2020 - Sept 2020",
           location: "Remote",
-          description: `Developed predictive models and deployed it on a full-stack website using Flask. Used Boxplot, Heatmap and Confusion Matrix for data visualization. Deep analysis on the superstore dataset using Bar Plots, Bar Charts, Pair Plots and Joint Plots for specific regions.
-          `,
+          description: `Developed predictive models and deployed it on a full-stack website using Flask. Used Boxplot, Heatmap and Confusion Matrix for data visualization. Deep analysis on the superstore dataset using Bar Plots, Bar Charts, Pair Plots and Joint Plots for specific regions.`,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
         },
@@ -484,14 +633,14 @@ const experience = {
           color: "#a60000",
         },
         {
-          title: "Machine Learning - Research associate",
+          title: "Machine Learning - Research Member",
           company: "Next Tech Lab",
           company_url: "https://nextech.io/",
           logo_path: "NTL.jfif",
           duration: "Oct 2020 - Present",
           location: "SRM IST Kattankulathur",
           description:
-            "Associate responsibilities were to build fast and efficient machine learning models, have talks on research topics related to computer vision and deep learning. Build team projects and intract with fellow members and ensure smooth progress and help juniors out in their difficulties.",
+            "Responsibilities were to build fast and efficient machine learning models, have talks on research topics related to computer vision and deep learning. Build team projects, intract with fellow members and ensure smooth progress and help juniors out in their difficulties.",
           color: "#62cff0",
         },
         {
@@ -500,15 +649,15 @@ const experience = {
           company_url: "https://bagcampus.in/",
           logo_path: "Bagcampus.jpg",
           duration: "Dec 2020 - May 2021",
-          location: "Remote",
+          location: "SRM IST Kattankulathur",
           description:
-            "Spread Awareness of new Technologies and Companies and new Opportunities to Students and Grow Bagcampus Community.",
+            "Spread Awareness of new Technologies, Companies and new Opportunities to Students and Grow Bagcampus Community.",
           color: "#0059c9",
         },
         {
           title: "Volunteer",
           company: "Google Crowdsource",
-          company_url: "https://indiaenvironment.org/",
+          company_url: "https://crowdsource.google.com/",
           logo_path: "GCS.jfif",
           duration: "Sept 2020 - Present",
           location: "Remote",
@@ -519,7 +668,7 @@ const experience = {
         {
           title: "Student Volunteer",
           company: "National Service Scheme",
-          company_url: "https://indiaenvironment.org/",
+          company_url: "https://nss.gov.in/",
           logo_path: "NSS.jfif",
           duration: "Dec 2019 - May 2020",
           location: "SRM IST Kattankulathur",
@@ -536,7 +685,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create Backend Projects, build Python Scripts and setup Cloud Infrastructures. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -544,7 +693,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_photo_2.jpeg",
+    profile_image_path: "profile_photo.jpeg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.669093b8.chunk.css",
+    "main.js": "/static/js/main.9b232039.chunk.js",
+    "main.js.map": "/static/js/main.9b232039.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00060668.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
+    "static/js/2.2a0576fc.chunk.js": "/static/js/2.2a0576fc.chunk.js",
+    "static/js/2.2a0576fc.chunk.js.map": "/static/js/2.2a0576fc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.516599c94b87cf9663ba3838d58b43fb.js": "/precache-manifest.516599c94b87cf9663ba3838d58b43fb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.669093b8.chunk.css.map": "/static/css/main.669093b8.chunk.css.map",
+    "static/js/2.2a0576fc.chunk.js.LICENSE.txt": "/static/js/2.2a0576fc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/CFC.jfif": "/static/media/CFC.71eef4be.jfif",
+    "static/media/GCS.jfif": "/static/media/GCS.c68e2fd2.jfif",
+    "static/media/HakinCodes.jfif": "/static/media/HakinCodes.564769e7.jfif",
+    "static/media/NSS.jfif": "/static/media/NSS.2122f752.jfif",
+    "static/media/NTL.jfif": "/static/media/NTL.dfed8eb4.jfif",
+    "static/media/Olympiad.png": "/static/media/Olympiad.17e91d0f.png",
+    "static/media/Reply.jfif": "/static/media/Reply.065b8c91.jfif",
+    "static/media/SRM_Logo.png": "/static/media/SRM_Logo.bc2e9965.png",
+    "static/media/Samsung.webp": "/static/media/Samsung.27be0400.webp",
+    "static/media/Samsung.png": "/static/media/Samsung.4ce3e237.png",
+    "static/media/Technocolabs.jfif": "/static/media/Technocolabs.dfdfd929.jfif",
+    "static/media/Webarch.jfif": "/static/media/Webarch.c0daffca.jfif",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/hackathon1.png": "/static/media/hackathon1.d4e222d3.png",
+    "static/media/hackathon2.png": "/static/media/hackathon2.45224d44.png",
+    "static/media/mlh-logo.svg": "/static/media/mlh-logo.bc5cfd3a.svg",
+    "static/media/mlh.png": "/static/media/mlh.53dd27a8.png",
+    "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
+    "static/media/profile_photo.jpeg": "/static/media/profile_photo.5be9f977.jpeg",
+    "static/media/profile_photo_2.jpeg": "/static/media/profile_photo_2.2a2870ae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00060668.js",
+    "static/js/2.2a0576fc.chunk.js",
+    "static/css/main.669093b8.chunk.css",
+    "static/js/main.9b232039.chunk.js"
+  ]
+}
